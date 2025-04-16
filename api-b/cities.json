@@ -1,0 +1,52 @@
+[
+  {
+    "name": "São Paulo",
+    "slug": "sao-paulo",
+    "temp": 25
+  },
+  {
+    "name": "Rio de Janeiro",
+    "slug": "rio-de-janeiro",
+    "temp": 28
+  },
+  {
+    "name": "Belo Horizonte",
+    "slug": "belo-horizonte",
+    "temp": 22
+  },
+  {
+    "name": "Brasília",
+    "slug": "brasilia",
+    "temp": 24
+  },
+  {
+    "name": "Salvador",
+    "slug": "salvador",
+    "temp": 29
+  },
+  {
+    "name": "Fortaleza",
+    "slug": "fortaleza",
+    "temp": 30
+  },
+  {
+    "name": "Curitiba",
+    "slug": "curitiba",
+    "temp": 19
+  },
+  {
+    "name": "Manaus",
+    "slug": "manaus",
+    "temp": 31
+  },
+  {
+    "name": "Recife",
+    "slug": "recife",
+    "temp": 27
+  },
+  {
+    "name": "Porto Alegre",
+    "slug": "porto-alegre",
+    "temp": 15
+  }
+]
